@@ -12,7 +12,7 @@
   Note if this PR has technical dependencies on other PRs, or if other PRs depend on it.
   Main considerations:
   - Are there other PRs that must be deployed before or at the same time as this PR?
-  - After this PR is merged/deployed, are there any other known PRs that, once morged, will make it difficult to roll back this PR or otherwise significantly affect it?
+  - After this PR is merged/deployed, are there any other known PRs that, once merged, will make it difficult to roll back this PR or otherwise significantly affect it?
 -->
 
 ## SQL Migrations
